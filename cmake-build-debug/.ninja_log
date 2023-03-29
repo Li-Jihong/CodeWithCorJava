@@ -1,0 +1,7 @@
+# ninja log v5
+0	372	7017806307103516	CMakeFiles/CodeWithCorJava.dir/li-jihong/2023-03/29/Decimal_in_the_NTH_place.cpp.obj	480ccec89ac4b904
+2	768	7017808046395534	CMakeFiles/CodeWithCorJava.dir/li-jihong/2023-03/29/Prime_factorization.cpp.obj	6043bef221c658c1
+2	756	7017809252769887	CMakeFiles/CodeWithCorJava.dir/li-jihong/2023-03/29/Prime_number.cpp.obj	a839c3cfbdae100f
+1	219	7017810355881513	build.ninja	4a3db786928aba7f
+0	253	7017810398772515	CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/29/Decimal_in_the_NTH_place.cpp.obj	cc4027c187dd8b81
+257	393	7017810400003307	Decimal_in_the_NTH_place.exe	2e86e1b8c3b881fd
