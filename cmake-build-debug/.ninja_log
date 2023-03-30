@@ -1,7 +1,19 @@
 # ninja log v5
+0	365	7018393284150108	CMakeFiles/sushu.dir/li-jihong/2023-03/30/sushu.cpp.obj	225160b8b890dfc7
 0	372	7017806307103516	CMakeFiles/CodeWithCorJava.dir/li-jihong/2023-03/29/Decimal_in_the_NTH_place.cpp.obj	480ccec89ac4b904
 2	768	7017808046395534	CMakeFiles/CodeWithCorJava.dir/li-jihong/2023-03/29/Prime_factorization.cpp.obj	6043bef221c658c1
+26	208	7018412716808728	CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/30/luanshengsushu.cpp.obj	a442b8ea579182ad
+0	109	7018395078519011	CMakeFiles/zuidagongyueshu.dir/li-jihong/2023-03/30/zuidagongyueshu.cpp.obj	4800bfcd992af5ca
 2	756	7017809252769887	CMakeFiles/CodeWithCorJava.dir/li-jihong/2023-03/29/Prime_number.cpp.obj	a839c3cfbdae100f
-1	219	7017810355881513	build.ninja	4a3db786928aba7f
-0	253	7017810398772515	CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/29/Decimal_in_the_NTH_place.cpp.obj	cc4027c187dd8b81
 257	393	7017810400003307	Decimal_in_the_NTH_place.exe	2e86e1b8c3b881fd
+1094	1262	7018449163623711	test.exe	727eecf1b4316b5e
+1	219	7018468590174061	build.ninja	4a3db786928aba7f
+2	358	7018412718478727	CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/29/Decimal_in_the_NTH_place.cpp.obj	cc4027c187dd8b81
+0	1391	7018391659563287	CMakeFiles/test.dir/li-jihong/2023-03/29/test.cpp.obj	21157dfc08039b2e
+366	536	7018393285790119	sushu.exe	1a699455e231d663
+109	260	7018395079801519	zuidagongyueshu.exe	82d1efcee9f700fd
+78	239	7018412717298739	CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/30/zhiyinzi.cpp.obj	76064e3bc73d46c6
+52	211	7018412716928728	CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/30/zuidagongyueshu.cpp.obj	ed8e31105703d010
+1	105	7018412805642913	CMakeFiles/zhiyinzi.dir/li-jihong/2023-03/30/zhiyinzi.cpp.obj	9a5d94730e4f07db
+105	263	7018412806962699	zhiyinzi.exe	603f71a60c2c0b17
+2	1094	7018449162007251	CMakeFiles/test.dir/li-jihong/2023-03/30/test.cpp.obj	3fa5acce9fb68e6a

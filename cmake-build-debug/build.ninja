@@ -88,6 +88,36 @@ build CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/29/Decimal_in_th
   OBJECT_DIR = CMakeFiles\Decimal_in_the_NTH_place.dir
   OBJECT_FILE_DIR = CMakeFiles\Decimal_in_the_NTH_place.dir\li-jihong\2023-03\29
 
+build CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/30/zuidagongyueshu.cpp.obj: CXX_COMPILER__Decimal_in_the_NTH_place_Debug D$:/desktop/CodeWithCorJava/li-jihong/2023-03/30/zuidagongyueshu.cpp || cmake_object_order_depends_target_Decimal_in_the_NTH_place
+  DEP_FILE = CMakeFiles\Decimal_in_the_NTH_place.dir\li-jihong\2023-03\30\zuidagongyueshu.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Decimal_in_the_NTH_place.dir
+  OBJECT_FILE_DIR = CMakeFiles\Decimal_in_the_NTH_place.dir\li-jihong\2023-03\30
+
+build CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/30/luanshengsushu.cpp.obj: CXX_COMPILER__Decimal_in_the_NTH_place_Debug D$:/desktop/CodeWithCorJava/li-jihong/2023-03/30/luanshengsushu.cpp || cmake_object_order_depends_target_Decimal_in_the_NTH_place
+  DEP_FILE = CMakeFiles\Decimal_in_the_NTH_place.dir\li-jihong\2023-03\30\luanshengsushu.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Decimal_in_the_NTH_place.dir
+  OBJECT_FILE_DIR = CMakeFiles\Decimal_in_the_NTH_place.dir\li-jihong\2023-03\30
+
+build CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/30/zhiyinzi.cpp.obj: CXX_COMPILER__Decimal_in_the_NTH_place_Debug D$:/desktop/CodeWithCorJava/li-jihong/2023-03/30/zhiyinzi.cpp || cmake_object_order_depends_target_Decimal_in_the_NTH_place
+  DEP_FILE = CMakeFiles\Decimal_in_the_NTH_place.dir\li-jihong\2023-03\30\zhiyinzi.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Decimal_in_the_NTH_place.dir
+  OBJECT_FILE_DIR = CMakeFiles\Decimal_in_the_NTH_place.dir\li-jihong\2023-03\30
+
+build CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/30/test.cpp.obj: CXX_COMPILER__Decimal_in_the_NTH_place_Debug D$:/desktop/CodeWithCorJava/li-jihong/2023-03/30/test.cpp || cmake_object_order_depends_target_Decimal_in_the_NTH_place
+  DEP_FILE = CMakeFiles\Decimal_in_the_NTH_place.dir\li-jihong\2023-03\30\test.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Decimal_in_the_NTH_place.dir
+  OBJECT_FILE_DIR = CMakeFiles\Decimal_in_the_NTH_place.dir\li-jihong\2023-03\30
+
+build CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/30/cuopaigongshi.cpp.obj: CXX_COMPILER__Decimal_in_the_NTH_place_Debug D$:/desktop/CodeWithCorJava/li-jihong/2023-03/30/cuopaigongshi.cpp || cmake_object_order_depends_target_Decimal_in_the_NTH_place
+  DEP_FILE = CMakeFiles\Decimal_in_the_NTH_place.dir\li-jihong\2023-03\30\cuopaigongshi.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Decimal_in_the_NTH_place.dir
+  OBJECT_FILE_DIR = CMakeFiles\Decimal_in_the_NTH_place.dir\li-jihong\2023-03\30
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Decimal_in_the_NTH_place
@@ -96,7 +126,7 @@ build CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/29/Decimal_in_th
 #############################################
 # Link the executable Decimal_in_the_NTH_place.exe
 
-build Decimal_in_the_NTH_place.exe: CXX_EXECUTABLE_LINKER__Decimal_in_the_NTH_place_Debug CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/29/Decimal_in_the_NTH_place.cpp.obj
+build Decimal_in_the_NTH_place.exe: CXX_EXECUTABLE_LINKER__Decimal_in_the_NTH_place_Debug CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/29/Decimal_in_the_NTH_place.cpp.obj CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/30/zuidagongyueshu.cpp.obj CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/30/luanshengsushu.cpp.obj CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/30/zhiyinzi.cpp.obj CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/30/test.cpp.obj CMakeFiles/Decimal_in_the_NTH_place.dir/li-jihong/2023-03/30/cuopaigongshi.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Decimal_in_the_NTH_place.dir
@@ -139,6 +169,204 @@ build Prime_number.exe: CXX_EXECUTABLE_LINKER__Prime_number_Debug CMakeFiles/Pri
   TARGET_IMPLIB = libPrime_number.dll.a
   TARGET_PDB = Prime_number.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target test
+
+
+#############################################
+# Order-only phony target for test
+
+build cmake_object_order_depends_target_test: phony || CMakeFiles/test.dir
+
+build CMakeFiles/test.dir/li-jihong/2023-03/30/test.cpp.obj: CXX_COMPILER__test_Debug D$:/desktop/CodeWithCorJava/li-jihong/2023-03/30/test.cpp || cmake_object_order_depends_target_test
+  DEP_FILE = CMakeFiles\test.dir\li-jihong\2023-03\30\test.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\test.dir
+  OBJECT_FILE_DIR = CMakeFiles\test.dir\li-jihong\2023-03\30
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target test
+
+
+#############################################
+# Link the executable test.exe
+
+build test.exe: CXX_EXECUTABLE_LINKER__test_Debug CMakeFiles/test.dir/li-jihong/2023-03/30/test.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\test.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = test.exe
+  TARGET_IMPLIB = libtest.dll.a
+  TARGET_PDB = test.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target sushu
+
+
+#############################################
+# Order-only phony target for sushu
+
+build cmake_object_order_depends_target_sushu: phony || CMakeFiles/sushu.dir
+
+build CMakeFiles/sushu.dir/li-jihong/2023-03/30/sushu.cpp.obj: CXX_COMPILER__sushu_Debug D$:/desktop/CodeWithCorJava/li-jihong/2023-03/30/sushu.cpp || cmake_object_order_depends_target_sushu
+  DEP_FILE = CMakeFiles\sushu.dir\li-jihong\2023-03\30\sushu.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\sushu.dir
+  OBJECT_FILE_DIR = CMakeFiles\sushu.dir\li-jihong\2023-03\30
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target sushu
+
+
+#############################################
+# Link the executable sushu.exe
+
+build sushu.exe: CXX_EXECUTABLE_LINKER__sushu_Debug CMakeFiles/sushu.dir/li-jihong/2023-03/30/sushu.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\sushu.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = sushu.exe
+  TARGET_IMPLIB = libsushu.dll.a
+  TARGET_PDB = sushu.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zuidagongyueshu
+
+
+#############################################
+# Order-only phony target for zuidagongyueshu
+
+build cmake_object_order_depends_target_zuidagongyueshu: phony || CMakeFiles/zuidagongyueshu.dir
+
+build CMakeFiles/zuidagongyueshu.dir/li-jihong/2023-03/30/zuidagongyueshu.cpp.obj: CXX_COMPILER__zuidagongyueshu_Debug D$:/desktop/CodeWithCorJava/li-jihong/2023-03/30/zuidagongyueshu.cpp || cmake_object_order_depends_target_zuidagongyueshu
+  DEP_FILE = CMakeFiles\zuidagongyueshu.dir\li-jihong\2023-03\30\zuidagongyueshu.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\zuidagongyueshu.dir
+  OBJECT_FILE_DIR = CMakeFiles\zuidagongyueshu.dir\li-jihong\2023-03\30
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zuidagongyueshu
+
+
+#############################################
+# Link the executable zuidagongyueshu.exe
+
+build zuidagongyueshu.exe: CXX_EXECUTABLE_LINKER__zuidagongyueshu_Debug CMakeFiles/zuidagongyueshu.dir/li-jihong/2023-03/30/zuidagongyueshu.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\zuidagongyueshu.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = zuidagongyueshu.exe
+  TARGET_IMPLIB = libzuidagongyueshu.dll.a
+  TARGET_PDB = zuidagongyueshu.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target luanshengsushu
+
+
+#############################################
+# Order-only phony target for luanshengsushu
+
+build cmake_object_order_depends_target_luanshengsushu: phony || CMakeFiles/luanshengsushu.dir
+
+build CMakeFiles/luanshengsushu.dir/li-jihong/2023-03/30/luanshengsushu.cpp.obj: CXX_COMPILER__luanshengsushu_Debug D$:/desktop/CodeWithCorJava/li-jihong/2023-03/30/luanshengsushu.cpp || cmake_object_order_depends_target_luanshengsushu
+  DEP_FILE = CMakeFiles\luanshengsushu.dir\li-jihong\2023-03\30\luanshengsushu.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\luanshengsushu.dir
+  OBJECT_FILE_DIR = CMakeFiles\luanshengsushu.dir\li-jihong\2023-03\30
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target luanshengsushu
+
+
+#############################################
+# Link the executable luanshengsushu.exe
+
+build luanshengsushu.exe: CXX_EXECUTABLE_LINKER__luanshengsushu_Debug CMakeFiles/luanshengsushu.dir/li-jihong/2023-03/30/luanshengsushu.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\luanshengsushu.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = luanshengsushu.exe
+  TARGET_IMPLIB = libluanshengsushu.dll.a
+  TARGET_PDB = luanshengsushu.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zhiyinzi
+
+
+#############################################
+# Order-only phony target for zhiyinzi
+
+build cmake_object_order_depends_target_zhiyinzi: phony || CMakeFiles/zhiyinzi.dir
+
+build CMakeFiles/zhiyinzi.dir/li-jihong/2023-03/30/zhiyinzi.cpp.obj: CXX_COMPILER__zhiyinzi_Debug D$:/desktop/CodeWithCorJava/li-jihong/2023-03/30/zhiyinzi.cpp || cmake_object_order_depends_target_zhiyinzi
+  DEP_FILE = CMakeFiles\zhiyinzi.dir\li-jihong\2023-03\30\zhiyinzi.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\zhiyinzi.dir
+  OBJECT_FILE_DIR = CMakeFiles\zhiyinzi.dir\li-jihong\2023-03\30
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zhiyinzi
+
+
+#############################################
+# Link the executable zhiyinzi.exe
+
+build zhiyinzi.exe: CXX_EXECUTABLE_LINKER__zhiyinzi_Debug CMakeFiles/zhiyinzi.dir/li-jihong/2023-03/30/zhiyinzi.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\zhiyinzi.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = zhiyinzi.exe
+  TARGET_IMPLIB = libzhiyinzi.dll.a
+  TARGET_PDB = zhiyinzi.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target cuopaigongshi
+
+
+#############################################
+# Order-only phony target for cuopaigongshi
+
+build cmake_object_order_depends_target_cuopaigongshi: phony || CMakeFiles/cuopaigongshi.dir
+
+build CMakeFiles/cuopaigongshi.dir/li-jihong/2023-03/30/cuopaigongshi.cpp.obj: CXX_COMPILER__cuopaigongshi_Debug D$:/desktop/CodeWithCorJava/li-jihong/2023-03/30/cuopaigongshi.cpp || cmake_object_order_depends_target_cuopaigongshi
+  DEP_FILE = CMakeFiles\cuopaigongshi.dir\li-jihong\2023-03\30\cuopaigongshi.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cuopaigongshi.dir
+  OBJECT_FILE_DIR = CMakeFiles\cuopaigongshi.dir\li-jihong\2023-03\30
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target cuopaigongshi
+
+
+#############################################
+# Link the executable cuopaigongshi.exe
+
+build cuopaigongshi.exe: CXX_EXECUTABLE_LINKER__cuopaigongshi_Debug CMakeFiles/cuopaigongshi.dir/li-jihong/2023-03/30/cuopaigongshi.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\cuopaigongshi.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = cuopaigongshi.exe
+  TARGET_IMPLIB = libcuopaigongshi.dll.a
+  TARGET_PDB = cuopaigongshi.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -171,6 +399,18 @@ build Prime_factorization: phony Prime_factorization.exe
 
 build Prime_number: phony Prime_number.exe
 
+build cuopaigongshi: phony cuopaigongshi.exe
+
+build luanshengsushu: phony luanshengsushu.exe
+
+build sushu: phony sushu.exe
+
+build test: phony test.exe
+
+build zhiyinzi: phony zhiyinzi.exe
+
+build zuidagongyueshu: phony zuidagongyueshu.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -179,7 +419,7 @@ build Prime_number: phony Prime_number.exe
 #############################################
 # Folder: D:/desktop/CodeWithCorJava/cmake-build-debug
 
-build all: phony Prime_factorization.exe Decimal_in_the_NTH_place.exe Prime_number.exe
+build all: phony Prime_factorization.exe Decimal_in_the_NTH_place.exe Prime_number.exe test.exe sushu.exe zuidagongyueshu.exe luanshengsushu.exe zhiyinzi.exe cuopaigongshi.exe
 
 # =============================================================================
 # Built-in targets

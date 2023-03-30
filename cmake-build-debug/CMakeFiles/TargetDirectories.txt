@@ -1,5 +1,11 @@
 D:/desktop/CodeWithCorJava/cmake-build-debug/CMakeFiles/Prime_factorization.dir
 D:/desktop/CodeWithCorJava/cmake-build-debug/CMakeFiles/Decimal_in_the_NTH_place.dir
 D:/desktop/CodeWithCorJava/cmake-build-debug/CMakeFiles/Prime_number.dir
+D:/desktop/CodeWithCorJava/cmake-build-debug/CMakeFiles/test.dir
+D:/desktop/CodeWithCorJava/cmake-build-debug/CMakeFiles/sushu.dir
+D:/desktop/CodeWithCorJava/cmake-build-debug/CMakeFiles/zuidagongyueshu.dir
+D:/desktop/CodeWithCorJava/cmake-build-debug/CMakeFiles/luanshengsushu.dir
+D:/desktop/CodeWithCorJava/cmake-build-debug/CMakeFiles/zhiyinzi.dir
+D:/desktop/CodeWithCorJava/cmake-build-debug/CMakeFiles/cuopaigongshi.dir
 D:/desktop/CodeWithCorJava/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/desktop/CodeWithCorJava/cmake-build-debug/CMakeFiles/rebuild_cache.dir
