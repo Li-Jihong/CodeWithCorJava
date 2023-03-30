@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CodeWithCorJava",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Decimal_in_the_NTH_place::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Decimal_in_the_NTH_place-Debug-5c9f4da748c5b93f5cb7.json",
+					"name" : "Decimal_in_the_NTH_place",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Prime_factorization::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Prime_factorization-Debug-dbcf711ff37c8fe46dab.json",
+					"name" : "Prime_factorization",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Prime_number::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Prime_number-Debug-cf5ca568715f1f8213c3.json",
+					"name" : "Prime_number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cuopaigongshi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cuopaigongshi-Debug-fe10d2a882f331e1830c.json",
+					"name" : "cuopaigongshi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "luanshengsushu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-luanshengsushu-Debug-299daa4caa4f467d7917.json",
+					"name" : "luanshengsushu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sushu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sushu-Debug-7b9434b5a75e8c7f3a9e.json",
+					"name" : "sushu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-f1170cd072d0f3fc3582.json",
+					"name" : "test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zhiyinzi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zhiyinzi-Debug-8de855d8cbbc966d1c03.json",
+					"name" : "zhiyinzi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zuidagongyueshu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zuidagongyueshu-Debug-10f28087cfd2a8e36ac5.json",
+					"name" : "zuidagongyueshu",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/desktop/CodeWithCorJava/cmake-build-debug",
+		"source" : "D:/desktop/CodeWithCorJava"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
