@@ -7,7 +7,7 @@ int n, m, q;
 int a[N][N], b[N][N];
 
 void insert(int x1, int y1, int x2, int y2, int c)
-{   //二位差分序列的核心
+{   //二维差分序列的核心
     b[x1][y1] += c;
     b[x2 + 1][y1] -= c;
     b[x1][y2 + 1] -= c;
