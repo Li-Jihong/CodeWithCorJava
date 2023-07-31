@@ -1,0 +1,312 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CodeWithCorJava",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1001.A+B_Format_20::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1001.A+B_Format_20-Debug-5d4d6bcb6328f736e283.json",
+					"name" : "1001.A+B_Format_20",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1002.A+B_for_Polynomials_25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1002.A+B_for_Polynomials_25-Debug-0034ba01732e63530a19.json",
+					"name" : "1002.A+B_for_Polynomials_25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1003.Emergency_25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1003.Emergency_25-Debug-5a334a116e41ae45060f.json",
+					"name" : "1003.Emergency_25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Decimal_in_the_NTH_place::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Decimal_in_the_NTH_place-Debug-d5cbb6c91253f1078c4e.json",
+					"name" : "Decimal_in_the_NTH_place",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Prime_factorization::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Prime_factorization-Debug-0a318197b9c69dfd1bc2.json",
+					"name" : "Prime_factorization",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Prime_number::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Prime_number-Debug-dc683f77333d43c8b5a0.json",
+					"name" : "Prime_number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cuopaigongshi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cuopaigongshi-Debug-28a5818c0ded5c333ac8.json",
+					"name" : "cuopaigongshi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fanyingbi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fanyingbi-Debug-2b9da2ba5ba7e3721e56.json",
+					"name" : "fanyingbi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "feixingyuanxiongdi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-feixingyuanxiongdi-Debug-30f917b5d2077731bbb5.json",
+					"name" : "feixingyuanxiongdi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fenqiaokeli::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fenqiaokeli-Debug-b550503c383740e75bd4.json",
+					"name" : "fenqiaokeli",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jiguangzhadan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jiguangzhadan-Debug-86a882b7df7158e7695f.json",
+					"name" : "jiguangzhadan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jiqirentiaoyue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jiqirentiaoyue-Debug-f6069b4a39e252e798f8.json",
+					"name" : "jiqirentiaoyue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "juzhenzuidaquanzhi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-juzhenzuidaquanzhi-Debug-326a8bbe4da60bbc2af7.json",
+					"name" : "juzhenzuidaquanzhi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kbeiqujian::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kbeiqujian-Debug-bb120cdd10f371b3c1d5.json",
+					"name" : "kbeiqujian",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "luanshengsushu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-luanshengsushu-Debug-3bf8dc88ce29fc38ffa4.json",
+					"name" : "luanshengsushu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "migonglujingshu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-migonglujingshu-Debug-1061f1bb06d72b99dc27.json",
+					"name" : "migonglujingshu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "migongzhidingbushu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-migongzhidingbushu-Debug-647520794217900c7b82.json",
+					"name" : "migongzhidingbushu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qianzhuihe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qianzhuihe-Debug-bafbca17f31e476db966.json",
+					"name" : "qianzhuihe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shudefanwei::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shudefanwei-Debug-5b250ca9d6b550edb5c2.json",
+					"name" : "shudefanwei",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shudesancifanggem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shudesancifanggem-Debug-b8babc912b4c515cc97b.json",
+					"name" : "shudesancifanggem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sipingfanghe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sipingfanghe-Debug-06c020aca649285db5f6.json",
+					"name" : "sipingfanghe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sushu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sushu-Debug-1c78e331e5413f9953c7.json",
+					"name" : "sushu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sushushai::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sushushai-Debug-7406b3addf8fa486e5b5.json",
+					"name" : "sushushai",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-7b1dda2b8222d91dfd9d.json",
+					"name" : "test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yueshu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yueshu-Debug-d697fa0d388cffa9d865.json",
+					"name" : "yueshu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zhiyinzi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zhiyinzi-Debug-684d8833f9de9b6fc54a.json",
+					"name" : "zhiyinzi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zijuzhendehe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zijuzhendehe-Debug-b8434459c1a0e1282012.json",
+					"name" : "zijuzhendehe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zuidagongyueshu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zuidagongyueshu-Debug-c0942e3ad2658a7f6947.json",
+					"name" : "zuidagongyueshu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zzz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zzz-Debug-6df05f5fb4d9170f9bc6.json",
+					"name" : "zzz",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/desktop/CodeWithCorJava/cmake-build-debug",
+		"source" : "D:/desktop/CodeWithCorJava"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

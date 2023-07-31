@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/BaiduNetdiskDownload/mingw64_GCC8.1/mingw64/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "D:/CLion 2023.1.4/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
